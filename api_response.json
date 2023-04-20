@@ -1,0 +1,238 @@
+{
+    'abilities': [
+      {
+        'ability': {
+          'name': 'blaze',
+          'url': 'https://pokeapi.co/api/v2/ability/66/'
+        },
+        'is_hidden': False,
+        'slot': 1
+      },
+      {
+        'ability': {
+          'name': 'solar-power',
+          'url': 'https://pokeapi.co/api/v2/ability/94/'
+        },
+        'is_hidden': True,
+        'slot': 3
+      }
+    ],
+    'base_experience': 267,
+    'forms': [
+      {
+        'name': 'charizard',
+        'url': 'https://pokeapi.co/api/v2/pokemon-form/6/'
+      }
+    ],
+    'game_indices': [
+      {
+        'game_index': 180,
+        'version': {
+          'name': 'red',
+          'url': 'https://pokeapi.co/api/v2/version/1/'
+        }
+      },
+      {
+        'game_index': 180,
+        'version': {
+          'name': 'blue',
+          'url': 'https://pokeapi.co/api/v2/version/2/'
+        }
+      },
+      {
+        'game_index': 180,
+        'version': {
+          'name': 'yellow',
+          'url': 'https://pokeapi.co/api/v2/version/3/'
+        }
+      },
+      {
+        'game_index': 6,
+        'version': {
+          'name': 'gold',
+          'url': 'https://pokeapi.co/api/v2/version/4/'
+        }
+      },
+      {
+        'game_index': 6,
+        'version': {
+          'name': 'silver',
+          'url': 'https://pokeapi.co/api/v2/version/5/'
+        }
+      },
+      {
+        'game_index': 6,
+        'version': {
+          'name': 'crystal',
+          'url': 'https://pokeapi.co/api/v2/version/6/'
+        }
+      },
+      {
+        'game_index': 6,
+        'version': {
+          'name': 'ruby',
+          'url': 'https://pokeapi.co/api/v2/version/7/'
+        }
+      },
+      {
+        'game_index': 6,
+        'version': {
+          'name': 'sapphire',
+          'url': 'https://pokeapi.co/api/v2/version/8/'
+        }
+      },
+      {
+        'game_index': 6,
+        'version': {
+          'name': 'emerald',
+          'url': 'https://pokeapi.co/api/v2/version/9/'
+        }
+      },
+      {
+        'game_index': 6,
+        'version': {
+          'name': 'firered',
+          'url': 'https://pokeapi.co/api/v2/version/10/'
+        }
+      },
+      {
+        'game_index': 6,
+        'version': {
+          'name': 'leafgreen',
+          'url': 'https://pokeapi.co/api/v2/version/11/'
+        }
+      },
+      {
+        'game_index': 6,
+        'version': {
+          'name': 'diamond',
+          'url': 'https://pokeapi.co/api/v2/version/12/'
+        }
+      },
+      {
+        'game_index': 6,
+        'version': {
+          'name': 'pearl',
+          'url': 'https://pokeapi.co/api/v2/version/13/'
+        }
+      },
+      {
+        'game_index': 6,
+        'version': {
+          'name': 'platinum',
+          'url': 'https://pokeapi.co/api/v2/version/14/'
+        }
+      },
+      {
+        'game_index': 6,
+        'version': {
+          'name': 'heartgold',
+          'url': 'https://pokeapi.co/api/v2/version/15/'
+        }
+      },
+      {
+        'game_index': 6,
+        'version': {
+          'name': 'soulsilver',
+          'url': 'https://pokeapi.co/api/v2/version/16/'
+        }
+      },
+      {
+        'game_index': 6,
+        'version': {
+          'name': 'black',
+          'url': 'https://pokeapi.co/api/v2/version/17/'
+        }
+      },
+      {
+        'game_index': 6,
+        'version': {
+          'name': 'white',
+          'url': 'https://pokeapi.co/api/v2/version/18/'
+        }
+      },
+      {
+        'game_index': 6,
+        'version': {
+          'name': 'black-2',
+          'url': 'https://pokeapi.co/api/v2/version/21/'
+        }
+      },
+      {
+        'game_index': 6,
+        'version': {
+          'name': 'white-2',
+          'url': 'https://pokeapi.co/api/v2/version/22/'
+        }
+      }
+    ],
+    'height': 17,
+    'held_items': [],
+    'id': 6,
+    'is_default': True,
+    'location_area_encounters': 'https://pokeapi.co/api/v2/pokemon/6/encounters',
+    'moves': [
+      {
+        'move': {
+          'name': 'mega-punch',
+          'url': 'https://pokeapi.co/api/v2/move/5/'
+        },
+        'version_group_details': [
+          {
+            'level_learned_at': 0,
+            'move_learn_method': {
+              'name': 'machine',
+              'url': 'https://pokeapi.co/api/v2/move-learn-method/4/'
+            },
+            'version_group': {
+              'name': 'red-blue',
+              'url': 'https://pokeapi.co/api/v2/version-group/1/'
+            }
+          },
+          {
+            'level_learned_at': 0,
+            'move_learn_method': {
+              'name': 'machine',
+              'url': 'https://pokeapi.co/api/v2/move-learn-method/4/'
+            },
+            'version_group': {
+              'name': 'yellow',
+              'url': 'https://pokeapi.co/api/v2/version-group/2/'
+            }
+          },
+          {
+            'level_learned_at': 0,
+            'move_learn_method': {
+              'name': 'tutor',
+              'url': 'https://pokeapi.co/api/v2/move-learn-method/3/'
+            },
+            'version_group': {
+              'name': 'emerald',
+              'url': 'https://pokeapi.co/api/v2/version-group/6/'
+            }
+          },
+          {
+            'level_learned_at': 0,
+            'move_learn_method': {
+              'name': 'tutor',
+              'url': 'https://pokeapi.co/api/v2/move-learn-method/3/'
+            },
+            'version_group': {
+              'name': 'firered-leafgreen',
+              'url': 'https://pokeapi.co/api/v2/version-group/7/'
+            }
+          },
+          {
+            'level_learned_at': 0,
+            'move_learn_method': {
+              'name': 'machine',
+              'url': 'https://pokeapi.co/api/v2/move-learn-method/4/'
+            },
+            'version_group': {
+              'name': 'sword-shield',
+              'url': 'https://pokeapi.co/api/v2/version-group/20/'
+            }
+          }
+        ]
+      },
+      
